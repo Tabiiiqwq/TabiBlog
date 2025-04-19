@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://x.com/Tabiiiqwq"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/Tabiiiqwq"
+    }
+  ]
+}
