@@ -1,7 +1,7 @@
 ---
 title: "Keypoint Detection"
 meta_title: ""
-description: "this is meta description"
+description: "keypoint detection"
 date: 2025-04-15T00:00:00Z
 image: "feature.png"
 categories: ["Computer Vision"]
